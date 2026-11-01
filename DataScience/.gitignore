@@ -1,0 +1,12 @@
+# Ambiente virtual (a raiz do repositório também é o venv)
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+share/
+etc/
+__pycache__/
+*.pyc
+.gradio/
+# CSV gerado pelo Streamlit em execução local (o exemplo fica em gradio_app/)
+streamlit_app/pacientes.csv
