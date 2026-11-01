@@ -11,7 +11,7 @@ motivo da consulta / observações (texto).
 | [`gradio_app/`](gradio_app) | Gradio (`gr.Blocks`, `gr.Dataframe`) | local |
 | [`streamlit_app/`](streamlit_app) | Streamlit (`st.form`, `st.session_state`, `st.download_button`) | Streamlit Community Cloud |
 
-**App público (Streamlit Cloud):** _adicionar o link após o deploy_
+**App público (Streamlit Cloud):** https://aplicacoesdatascience-bvnxenbspubsk4thgkmix4.streamlit.app/
 
 ## Rodar localmente
 
