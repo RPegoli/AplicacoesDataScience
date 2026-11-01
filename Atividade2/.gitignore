@@ -1,0 +1,6 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+*
+# Exceção: versiona apenas o projeto TechFix (credenciais seguem ignoradas por techfix/.gitignore)
+!.gitignore
+!/techfix/
+!/techfix/**
